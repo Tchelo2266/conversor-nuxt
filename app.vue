@@ -66,6 +66,7 @@ function converteHexaDecimal(num: number) : string {
             <div class="col">
             </div>
         </div> -->
+        <Adsbygoogle ad-client="ca-pub-4371041600593889" ad-slot="5284239000" />
         <div class="container container-principal mt-5">
             <h1 class="mb-4">Conversor de bases numéricas</h1>
             <div class="row pt-1 mb-4">
